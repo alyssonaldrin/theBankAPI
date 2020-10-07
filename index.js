@@ -20,6 +20,6 @@ app.listen(3000, async () => {
             accounts: []
         };
         await writeFile("accounts.json", JSON.stringify(initialJson));
-        console.log("API na porta 3000!");
+        console.log("json criado, API na porta 3000!");
     }; 
 });
