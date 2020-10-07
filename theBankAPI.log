@@ -1,0 +1,43 @@
+2020-10-07T11:16:09.427Z [theBankAPI] info: API na porta 3000!
+2020-10-07T11:16:26.911Z [theBankAPI] info: json criado, API na porta 3000!
+2020-10-07T11:21:24.081Z [theBankAPI] info: API na porta 3000!
+2020-10-07T11:21:42.601Z [theBankAPI] error: GET /account - ENOENT: no such file or directory, open 'C:\projetos\theBankAPI\accounts.json'
+2020-10-07T11:27:05.912Z [theBankAPI] info: json criado, API na porta 3000!
+2020-10-07T11:27:23.510Z [theBankAPI] info: GET /account
+2020-10-07T11:27:29.338Z [theBankAPI] info: POST /account - {"id":1,"name":"Victor Ramalho","balance":6000}
+2020-10-07T11:27:40.933Z [theBankAPI] info: GET /account
+2020-10-07T11:28:49.717Z [theBankAPI] info: API na porta 3000!
+2020-10-07T11:28:52.930Z [theBankAPI] info: GET /account - 1
+2020-10-07T11:56:19.603Z [theBankAPI] info: POST /account - {"id":2,"name":"Alysson Aldrin","balance":500}
+2020-10-07T11:56:28.892Z [theBankAPI] info: GET /account
+2020-10-07T11:58:51.980Z [theBankAPI] info: API na porta 3000!
+2020-10-07T11:59:26.709Z [theBankAPI] error: POST /account - Name e Balance são obrigatórios.
+2020-10-07T12:00:10.396Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:01:48.209Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:02:14.197Z [theBankAPI] info: POST /account - {"id":3,"name":"Alysson Aldrin","balance":500}
+2020-10-07T12:02:20.395Z [theBankAPI] info: GET /account
+2020-10-07T12:04:16.481Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:05:31.327Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:05:57.315Z [theBankAPI] error: PUT /account - Registro não encontrado
+2020-10-07T12:06:05.987Z [theBankAPI] info: PUT /account - {"id":1,"name":"Victor Ramalho","balance":6000}
+2020-10-07T12:06:19.455Z [theBankAPI] info: PUT /account - {"id":1,"name":"Victor Ramalho","balance":5000}
+2020-10-07T12:06:53.774Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:07:07.180Z [theBankAPI] error: PUT /account - Name e Balance são obrigatórios.
+2020-10-07T12:07:37.279Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:08:54.601Z [theBankAPI] info: PUT /account - {"id":1,"name":"Victor Ramalho","balance":4000}
+2020-10-07T12:09:08.191Z [theBankAPI] info: PUT /account - {"id":1,"name":"Victor Hugo","balance":8000}
+2020-10-07T12:09:10.532Z [theBankAPI] info: GET /account
+2020-10-07T12:09:30.683Z [theBankAPI] info: PUT /account - {"id":3,"name":"Pedro Arthur","balance":8000}
+2020-10-07T12:09:32.393Z [theBankAPI] info: GET /account
+2020-10-07T12:10:12.544Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:10:33.759Z [theBankAPI] info: PATCH /account - {"id":3,"balance":5000}
+2020-10-07T12:10:38.857Z [theBankAPI] error: PATCH /account - Registro não encontrado
+2020-10-07T12:10:44.788Z [theBankAPI] info: PATCH /account - {"id":3,"balance":8000}
+2020-10-07T12:11:18.538Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:13:27.028Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:13:36.567Z [theBankAPI] error: PATCH /account - Name e Balance são obrigatórios.
+2020-10-07T12:13:42.109Z [theBankAPI] error: PATCH /account - Name e Balance são obrigatórios.
+2020-10-07T12:13:46.334Z [theBankAPI] info: PATCH /account - {"id":3,"balance":8000}
+2020-10-07T12:14:13.126Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:15:00.288Z [theBankAPI] info: API na porta 3000!
+2020-10-07T12:15:06.487Z [theBankAPI] error: PUT /account - Id, Name e Balance são obrigatórios.
