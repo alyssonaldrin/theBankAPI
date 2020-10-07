@@ -81,3 +81,8 @@
 2020-10-07T14:03:57.707Z [theBankAPI] info: GET /account - 1
 2020-10-07T14:04:11.127Z [theBankAPI] error: PUT /account - Id, Name e Balance são obrigatórios.
 2020-10-07T14:04:19.695Z [theBankAPI] info: GET /account
+2020-10-07T15:39:05.762Z [theBankAPI] info: API na porta 3000!
+2020-10-07T15:41:38.112Z [theBankAPI] info: API na porta 3000!
+2020-10-07T15:42:36.463Z [theBankAPI] info: GET /account
+2020-10-07T15:43:39.205Z [theBankAPI] info: POST /account - {"id":4,"name":"Fabio Henrique","balance":4000}
+2020-10-07T15:43:47.875Z [theBankAPI] info: GET /account
